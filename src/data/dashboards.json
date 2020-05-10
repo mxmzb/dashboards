@@ -1,0 +1,187 @@
+[
+  {
+    "name": "Algolia",
+    "url": "https://www.algolia.com/dashboard",
+    "docs": "https://www.algolia.com/doc/",
+    "color": "#5468ff",
+    "logo": "algolia.svg"
+  },
+  {
+    "name": "Vercel",
+    "url": "https://vercel.com/dashboard",
+    "docs": "https://vercel.com/docs",
+    "color": "#000000",
+    "logo": "vercel.svg"
+  },
+  {
+    "name": "Netlify",
+    "url": "https://app.netlify.com",
+    "docs": "https://docs.netlify.com/",
+    "color": "#00ad9f",
+    "logo": "netlify.svg"
+  },
+  {
+    "name": "Cloudflare",
+    "url": "https://dash.cloudflare.io",
+    "docs": "https://developers.cloudflare.com/docs/",
+    "color": "#f38020",
+    "logo": "cloudflare.svg"
+  },
+  {
+    "name": "Stripe",
+    "docs": "https://stripe.com/docs",
+    "url": "https://dashboard.stripe.com",
+    "color": "#00afe1",
+    "logo": "stripe.svg"
+  },
+  {
+    "name": "Stackpath",
+    "url": "https://control.stackpath.com",
+    "docs": "https://stackpath.dev/",
+    "color": "#4c0071",
+    "logo": "stackpath.jpg"
+  },
+  {
+    "name": "Auth0",
+    "url": "https://manage.auth0.com",
+    "docs": "https://auth0.com/docs/",
+    "color": "#eb5424",
+    "logo": "auth0.svg"
+  },
+  {
+    "name": "Google Search Console",
+    "url": "https://search.google.com/search-console",
+    "docs": "https://developers.google.com/webmaster-tools",
+    "color": "#455a64",
+    "logo": "google-search-console.svg"
+  },
+  {
+    "name": "Google Play Console",
+    "url": "https://play.google.com/apps/publish/",
+    "docs": "https://support.google.com/googleplay/android-developer/?hl=en#topic=3450769",
+    "color": "#607d8b",
+    "logo": "google-play-console.svg"
+  },
+  {
+    "name": "Fathom Analytics",
+    "url": "https://app.usefathom.com/",
+    "docs": "https://usefathom.com/support",
+    "color": "#533feb",
+    "logo": "fathom-analytics.svg"
+  },
+  {
+    "name": "Google Analytics",
+    "url": "https://analytics.google.com/analytics/web/",
+    "color": "#F9AB03",
+    "logo": "google-analytics.svg"
+  },
+  {
+    "name": "Google Drive",
+    "url": "https://drive.google.com/",
+    "color": "#1CA362",
+    "logo": "google-drive.svg"
+  },
+  {
+    "name": "AWS Console",
+    "url": "https://console.aws.amazon.com/",
+    "docs": "https://docs.aws.amazon.com/",
+    "color": "#ff9900",
+    "logo": "aws-console.svg"
+  },
+  {
+    "name": "DigitalOcean",
+    "url": "https://cloud.digitalocean.com/",
+    "docs": "https://www.digitalocean.com/docs/",
+    "color": "#008bcf",
+    "logo": "digitalocean.svg"
+  },
+  {
+    "name": "Heroku",
+    "url": "https://dashboard.heroku.com/",
+    "docs": "https://devcenter.heroku.com/",
+    "color": "#6762a6",
+    "logo": "heroku.svg"
+  },
+  {
+    "name": "Circle CI",
+    "url": "https://circleci.com/dashboard",
+    "docs": "https://circleci.com/docs/",
+    "color": "#000000",
+    "logo": "circle-ci.svg"
+  },
+  {
+    "name": "Sanity",
+    "url": "https://manage.sanity.io/",
+    "docs": "https://www.sanity.io/docs",
+    "color": "#FA1608",
+    "logo": "sanity.png"
+  },
+  {
+    "name": "App Store Connect",
+    "url": "https://appstoreconnect.apple.com/",
+    "color": "#19A3F6",
+    "logo": "app-store-connect.svg"
+  },
+  {
+    "name": "PayPal",
+    "url": "https://www.paypal.com/mep/dashboard",
+    "color": "#003087",
+    "logo": "paypal.svg"
+  },
+  {
+    "name": "Shopify",
+    "url": "https://partners.shopify.com/organizations",
+    "docs": "https://shopify.dev/",
+    "color": "#96bf48",
+    "logo": "shopify.svg"
+  },
+  {
+    "name": "Mailchimp",
+    "url": "https://admin.mailchimp.com/",
+    "docs": "https://mailchimp.com/developer/",
+    "color": "#FFE01C",
+    "logo": "mailchimp.svg"
+  },
+  {
+    "name": "Convertkit",
+    "url": "https://app.convertkit.com/",
+    "docs": "https://developers.convertkit.com/",
+    "color": "#fb6970",
+    "logo": "convertkit.svg"
+  },
+  {
+    "name": "Facebook Ads Manager",
+    "url": "https://business.facebook.com/adsmanager/",
+    "docs": "https://developers.facebook.com/docs/marketing-apis/",
+    "color": "#3b5998",
+    "logo": "facebook.svg"
+  },
+  {
+    "name": "YouTube Studio",
+    "url": "https://studio.youtube.com/",
+    "docs": "https://developers.google.com/youtube/",
+    "color": "#ff0000",
+    "logo": "youtube.svg"
+  },
+  {
+    "name": "Microsoft Azure",
+    "url": "https://portal.azure.com/",
+    "docs": "https://docs.microsoft.com/en-us/azure/",
+    "color": "#0078d4",
+    "logo": "microsoft-azure.svg"
+  },
+  {
+    "name": "Google Ads",
+    "url": "https://ads.google.com/aw/overview",
+    "docs": "https://developers.google.com/google-ads/api/docs/",
+    "color": "#4284F5",
+    "logo": "google-ads.svg"
+  },
+  {
+    "name": "Logflare",
+    "url": "https://logflare.app/dashboard",
+    "docs": "https://logflare.app/guides",
+    "color": "#5DEB8F",
+    "logo": "logflare.png"
+  }
+]

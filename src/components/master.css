@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind screens;
+
+.wrapper {
+  max-width: 42rem;
+  padding-right: 1.5rem;
+  padding-left: 1.5rem;
+}
+
+.intro a {
+  @apply text-yellow-900 underline;
+}
+
+.docs img {
+  height: 15px;
+}
+
+.fav img {
+  height: 15px;
+}
+
+/* custom adjustments for each service, if required */
+
+.logo {
+  width: 26px;
+  height: 26px;
+}
+
+.logo img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+#stripe .logo {
+  @apply rounded overflow-hidden;
+}
+
+#stackpath .logo {
+  @apply rounded overflow-hidden;
+}
+
+#app-store-connect .logo {
+  @apply rounded overflow-hidden;
+}
